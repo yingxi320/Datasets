@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+__pycache__/
+*.py[cod]
+*$py.class
+
+# data files
+event_type.csv
+log_feature.csv
+resource_type.csv
+sample_submission.csv
+severity_type.csv
+test.csv
+train.csv
